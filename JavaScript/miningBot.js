@@ -1,9 +1,6 @@
-//*****************************
-//~SUBLIME STUDIOS~
-//SublimeHawk6 (Epictree160)
-//Do not pretend you own
-//or have written this script.
-//*****************************
+/* Ancient code published for archival purposes. May or may not work or be relevant.
+Feel free to do whatever you want with this, if anything.
+Archive from 2017-10-07 - contents may be older. */
 
 //Mining Bot
 BOTNAME = '[MINING]';
